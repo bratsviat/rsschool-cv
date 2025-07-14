@@ -24,16 +24,9 @@ QA professional with nearly 6 years of experience across manual and automation t
 # Code examples
 
 ```
-// Basic example of WebdriverIO + Mocha test
-describe('Login Page', () => {
-    it('should allow user to log in with valid credentials', async () => {
-        await browser.url('/login');
-        await $('#username').setValue('testuser');
-        await $('#password').setValue('securePass123');
-        await $('button[type="submit"]').click();
-        await expect($('.dashboard')).toBeDisplayed();
-    });
-});
+function multiply(a, b){
+  return a * b
+}
 ```
 
 # Education
