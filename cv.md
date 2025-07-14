@@ -35,3 +35,16 @@ describe('Login Page', () => {
     });
 });
 ```
+
+# Education
+
+* **Yanka Kupala State University of Grodno**
+    * Economics and Management
+* **Belhard Academy**
+    * Modern Front-End using JavaScript and HTML 5 (Basic Level)
+
+# Languages
+
+- English
+- Russian
+- Polish
